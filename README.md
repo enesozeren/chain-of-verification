@@ -50,6 +50,8 @@ Then you can run the following script for a RAG with CoVe Agent demo. This scrip
 python run_rag_system.py
 ```
 
+You can also check the existing `demo_data/outputs.txt` file if there are no OpenAI API tokens available for you.
+
 ## Folder structure:
 ```
 .
