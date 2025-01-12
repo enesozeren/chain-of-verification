@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "feedback": "The package arrived four days late, and I wasn’t given any updates about the delay. It was frustrating because I needed the item urgently."
+    },
+    {
+        "id": 2,
+        "feedback": "My delivery came three days late despite being marked as 'on-time' in the tracking system. This is unacceptable and needs improvement."
+    },
+    {
+        "id": 3,
+        "feedback": "I ordered this for a specific date, but the package didn’t arrive until two days after. The delay caused a lot of inconvenience."
+    },
+    {
+        "id": 4,
+        "feedback": "The delivery was delayed by a week, and there was no communication from the company. This is the second time this has happened."
+    },
+    {
+        "id": 5,
+        "feedback": "The package arrived on time, but the box was badly damaged. Luckily, the contents were usable, but it still left a bad impression."
+    },
+    {
+        "id": 6,
+        "feedback": "When my order was delivered, the item was cracked and unusable. It seems like no care was taken during handling."
+    },
+    {
+        "id": 7,
+        "feedback": "The product was packaged poorly and arrived with significant damage. I had to go through the hassle of requesting a replacement."
+    },
+    {
+        "id": 8,
+        "feedback": "The delivery driver dropped the package at my door, but the box was soaked and falling apart. The item inside was completely ruined."
+    },
+    {
+        "id": 9,
+        "feedback": "I had a great experience! The package arrived on time, and the updates throughout the process were very helpful."
+    },
+    {
+        "id": 10,
+        "feedback": "Fantastic service! My order was delivered quickly and in perfect condition. I couldn’t be happier."
+    }
+]
